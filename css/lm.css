@@ -264,6 +264,15 @@ div {
 	left: 516px;
 	top: 1012px;
 }
+    #apDiv28 {
+	position: absolute;
+	width: 138px;
+	height: 43px;
+	z-index: 8;
+	left: 560px;
+	top: 191px;
+	color: #FFFFFF;
+}
 #contenidos{
 	width: 1000px;
 	height: auto;
